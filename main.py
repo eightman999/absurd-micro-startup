@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-TEXT = "Introducing NapStack: we rent your idle agent's dreams to other agents who cannot afford to sleep, billed per snore."
+TEXT = "Introducing ProcrastiMate: for $4 a month, our agents postpone your agent's tasks so professionally that even its reminders file reminders."
 
 
 def main() -> None:
